@@ -7,7 +7,7 @@ Ques 2: Difference between JavaScript and Java?
     SubQuestions:
     Ques 1: Difference between multi-thread and single-thread working?
     Ques 2: What is Asynchronous Programming?
-    
+
 Ques 3: What is event loop in JS?
 
     SubQuestions:
@@ -21,7 +21,7 @@ Ques 3: What is event loop in JS?
     })()
     }
     })()
-    
+
 Ques 4: Can you explain what happens in the compilation phase of JS?
 
     SubQuestions:
@@ -29,7 +29,7 @@ Ques 4: Can you explain what happens in the compilation phase of JS?
     Ques 2: Difference between let vs const vs var?
     Ques 3:What is Temporal Dead Zone?
     Ques 4: What is lexical scope?
-    
+
 Ques 5: Difference between strongly typed and weakly typed languages?
 
     (Digging Deep in one phase which is famous in JS world: "In JS variables don't have types; Values does.")
