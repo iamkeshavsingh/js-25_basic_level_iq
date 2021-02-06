@@ -2,6 +2,10 @@
 
 Ques 1: What is JavaScript?
 
+    Motivation:
+    Why to learn JavaScript?
+    What kind of application can I make using JavaScript?
+
 Ques 2: Difference between JavaScript and Java?
 
     SubQuestions:
@@ -13,13 +17,13 @@ Ques 3: What is event loop in JS?
     SubQuestions:
     What is output of the following code:
     (function(){
-    for(var i=0;i<5;i++){
-    (function(){
-    setTimeout(function(){
-    console.log(i);
-    },1000);
-    })()
-    }
+        for(var i=0;i<5;i++){
+            (function(){
+                setTimeout(function(){
+                    console.log(i);
+                },1000);
+            })()
+        }
     })()
 
 Ques 4: Can you explain what happens in the compilation phase of JS?
@@ -32,4 +36,4 @@ Ques 4: Can you explain what happens in the compilation phase of JS?
 
 Ques 5: Difference between strongly typed and weakly typed languages?
 
-    (Digging Deep in one phase which is famous in JS world: "In JS variables don't have types; Values does.")
+    Digging Deep in one phase which is famous in JS world: "In JS variables don't have types; Values does."
