@@ -34,3 +34,6 @@ Ques 6: What is Hoisting in JavaScript ?
 
     Ques 1: Is Hoisting is a physical operations ib JS?
     Ques 2: Is let and const are hoisted?
+    Ques 3: What is meant by Hoisting variables and Hoisting functions?
+
+        Practising some output based questions on Hoisting.
