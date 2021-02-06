@@ -76,8 +76,7 @@ Ques 12: What are events in JS and how JS handles it internally?
 
 Ques 13: How to access DOM elements using JS ?
 
-    Practise Project:
-
+    Project Time:
     Making a stopwatch using JS.
 
 Ques 14: Classes in JS? Does Classes actually exists in JS ?
@@ -86,7 +85,7 @@ Ques 14: Classes in JS? Does Classes actually exists in JS ?
 
     Ques 1: What is prototype chaining in JS ?
 
-Quest 15: What are functions in JS ?
+Ques 15: What are functions in JS ?
 
     SubQuestions:
 
@@ -94,3 +93,60 @@ Quest 15: What are functions in JS ?
     Ques 2: What is anonymous function ?
     Ques 3: What is arrow function ?
     Ques 4: Difference between named vs anonymous vs arrow and when to use when ?
+
+Ques 16: What is closure in JS ?
+
+    SubQuestions:
+
+    Ques 1: How to make variables and functions hidden from outside world ?
+    Ques 2: When and Why to use closures ?
+
+Ques 17: What is IIFE in JS?
+
+    SubQuestions:
+
+    Ques 1: Why to use IIFE ?
+
+Ques 18: What level of scoping does JS obeys ?
+
+    SubQuestions:
+
+    Ques 1: What is let and const variables and when to use these over var ?
+
+Ques 19: What is thunk and callbacks in JS ?
+
+    SubQuestions:
+
+    Ques 1: Difference between thunk and callbacks ?
+    Ques 2: Example where JS uses callbacks ?
+
+    Project Time:
+    Making a TODO application using pure JS and callbacks.
+
+Ques 20: What are pure functions ?
+
+    SubQuestions:
+
+    Ques 1: What is immutability in JS?
+
+Ques 21: What are Higher order functions ?
+
+    SubQuestions:
+
+    Ques 1: Difference between map and filter ?
+    Ques 2: How to you implement map and filter using reduce ?
+
+Ques 22: What are arrays in JS ?
+
+    Ques 1: Difference between ordinary and exotic object in JS ?
+
+Ques 23: What is Property Descriptors in JS ?
+
+Ques 24: What are different types of for loops in JS ?
+
+Ques 25: What is Asynchronous Programming in JS ?
+
+    SubQuestions:
+
+    Ques 1: What are promises ?
+    Ques 2: How to handle error in JS ?
