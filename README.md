@@ -1,1 +1,1 @@
-# js-25_basic_level_iq
+# JavaScript 25 interview Questions - Basic Level
