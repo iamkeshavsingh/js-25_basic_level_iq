@@ -14,17 +14,7 @@ Ques 2: Difference between JavaScript and Java?
 
 Ques 3: What is event loop in JS?
 
-    SubQuestions:
-    What is output of the following code:
-    (function(){
-        for(var i=0;i<5;i++){
-            (function(){
-                setTimeout(function(){
-                    console.log(i);
-                },1000);
-            })()
-        }
-    })()
+    Practising some output based questions based on event loop.
 
 Ques 4: Can you explain what happens in the compilation phase of JS?
 
@@ -37,3 +27,10 @@ Ques 4: Can you explain what happens in the compilation phase of JS?
 Ques 5: Difference between strongly typed and weakly typed languages?
 
     Digging Deep in one phase which is famous in JS world: "In JS variables don't have types; Values does."
+
+Ques 6: What is Hoisting in JavaScript ?
+
+    SubQuestions:
+
+    Ques 1: Is Hoisting is a physical operations ib JS?
+    Ques 2: Is let and const are hoisted?
